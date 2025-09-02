@@ -1,9 +1,6 @@
 
 body {
   font-size: 10px;
-  cursor: url(33866.png), auto;
+  cursor: url("33866.png"), auto;
 }
   
-.cursor {
-  cursor: url(33866.png);
-}
