@@ -5,6 +5,10 @@ body {
   background: black;
   
 }
+
+body {
+  cursor: url('images/33866.png'), auto;
+}
   
 
 h1 {
